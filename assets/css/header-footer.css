@@ -1,0 +1,128 @@
+nav .logo .pink{
+    border-radius: 50%;
+    width: 29px;
+    height: 29px;
+    line-height: 42px;
+    background-color: #FFC0D0;
+    
+}
+
+nav .logo .pink i{
+    font-size: 14px;
+    color: #ffffff;
+}
+
+nav .logo .p{
+    font-family: 'Khula', sans-serif;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+nav .icons .pink{
+    border-radius: 50%;
+    width: 41px;
+    height: 41px;
+    background-color: #FFC0D0;  
+}
+
+.navbar .search a:link{
+    color: #000000;
+}
+
+.navbar .search a:focus, .navbar .icons .search a:hover{
+    color: #000000;
+} 
+
+.navbar .nav-item a:link{
+    color: #000000;
+}
+
+.navbar .nav-item a:focus, .navbar .nav-item a:hover{
+    text-decoration-color: #FFC0D0 !important;
+    text-decoration: underline;
+    color: #000000;
+}
+
+footer{
+    height: 100%;
+    background-color: #242424;
+}
+
+footer h4{
+    font-family: 'Khula', sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+}
+
+footer .black{
+    width: 49px;
+    height: 49px;
+    border-radius: 50%;
+    background-color: #3A3A3A;
+}
+
+footer a{
+    color: #ffffff;
+}
+
+footer h5{
+    font-family: 'Khula', sans-serif;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFEF8;
+}
+
+footer p{
+    font-family: 'Khula', sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+    color: #AAAAAA;
+}
+
+footer .collapse .item a:link{
+    font-family: 'Khula', sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+    color: #AAAAAA !important;
+}
+
+footer .text{
+    font-family: 'Khula', sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+    color: #AAAAAA;
+}
+
+footer .logo2 .black{
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    line-height: 42px;
+    background-color: #ffffff;
+    
+}
+
+footer .logo2 .black i{
+    font-size: 20px;
+    color: #000000;
+}
+
+footer .logo2 .p{
+    font-family: 'Khula', sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    color: #ffffff;
+}
+
+footer .white-line{
+    border: 0.5px solid #AAAAAA;
+}
+
+@media(max-width: 900px){
+    footer{
+        height: 100%;
+        background-color: #242424;
+    }
+}
